@@ -31,3 +31,7 @@
 
 ![image](https://github.com/user-attachments/assets/c0c18b7e-3c57-4044-93bc-83c873f23557)
 
+## LLM 對話 (Claude)
+(1)[https://claude.ai/share/1f9887cb-adec-42b9-a81d-e6eb8193b7cb]
+(2)[https://claude.ai/share/07863ba0-629c-4644-b763-27dcbb345ae2]
+
