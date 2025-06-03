@@ -29,7 +29,8 @@
 模型使用 EfficientNet-B0 作為骨幹網路提取特徵。這些特徵隨後通過一個 "頸部" (Neck) 層以減少維度，接著是數個共享的卷積層 (統一輸出頭)。最後，特徵分支到各任務特定的輸出層。
 
 
-![image](https://github.com/user-attachments/assets/20d8ad2d-80d2-4d64-ab76-e905a705352a)
+![image](https://github.com/user-attachments/assets/bc495793-f2b5-495a-8d02-d6d9f5e7b85f)
+
 
 
 ## 實驗結果比較(單任務v.s.多任務)
