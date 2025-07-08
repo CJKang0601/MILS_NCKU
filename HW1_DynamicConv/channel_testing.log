@@ -1,0 +1,33 @@
+2025-03-31 22:12:16,661 - utils - INFO - Random seed set to 42
+2025-03-31 22:12:16,697 - utils - INFO - Loaded 63325 training samples, 450 validation samples, 450 test samples
+2025-03-31 22:12:16,699 - __main__ - INFO - Using device: cuda
+2025-03-31 22:12:16,699 - __main__ - INFO - Number of classes: 50
+2025-03-31 22:12:17,099 - __main__ - INFO - Loaded model from results/checkpoints/dynamic_cnn_best.pth
+2025-03-31 22:12:17,100 - __main__ - INFO - Testing with channel mode: rgb
+2025-03-31 22:18:20,795 - utils - INFO - Random seed set to 42
+2025-03-31 22:18:20,839 - utils - INFO - Loaded 63325 training samples, 450 validation samples, 450 test samples
+2025-03-31 22:18:20,841 - __main__ - INFO - Using device: cuda
+2025-03-31 22:18:20,841 - __main__ - INFO - Number of classes: 50
+2025-03-31 22:18:21,185 - __main__ - INFO - Loaded model from results/checkpoints/dynamic_cnn_best.pth
+2025-03-31 22:18:21,185 - __main__ - INFO - Testing with channel mode: rgb
+2025-03-31 22:18:22,125 - __main__ - INFO - Accuracy with rgb channels: 76.44%
+2025-03-31 22:18:22,126 - __main__ - INFO - Testing with channel mode: r
+2025-03-31 22:18:22,751 - __main__ - INFO - Accuracy with r channels: 7.78%
+2025-03-31 22:18:22,751 - __main__ - INFO - Testing with channel mode: g
+2025-03-31 22:18:23,350 - __main__ - INFO - Accuracy with g channels: 7.11%
+2025-03-31 22:18:23,350 - __main__ - INFO - Testing with channel mode: b
+2025-03-31 22:18:23,949 - __main__ - INFO - Accuracy with b channels: 6.67%
+2025-03-31 22:18:23,950 - __main__ - INFO - Testing with channel mode: rg
+2025-03-31 22:18:24,636 - __main__ - INFO - Accuracy with rg channels: 45.56%
+2025-03-31 22:18:24,636 - __main__ - INFO - Testing with channel mode: rb
+2025-03-31 22:18:25,263 - __main__ - INFO - Accuracy with rb channels: 44.67%
+2025-03-31 22:18:25,264 - __main__ - INFO - Testing with channel mode: gb
+2025-03-31 22:18:25,922 - __main__ - INFO - Accuracy with gb channels: 37.56%
+2025-03-31 22:18:26,109 - __main__ - INFO - Testing completed!
+2025-04-20 12:06:46,605 - utils - INFO - Random seed set to 42
+2025-04-20 12:06:46,650 - utils - INFO - Loaded 63325 training samples, 450 validation samples, 450 test samples
+2025-04-20 12:06:46,654 - __main__ - INFO - Using device: cuda
+2025-04-20 12:06:46,654 - __main__ - INFO - Number of classes: 50
+2025-04-20 12:06:46,654 - dynamic_convolution - INFO - Initializing DynamicCNN (Attention over Kernels version)
+2025-04-20 12:06:46,866 - __main__ - INFO - Loaded model from results/checkpoints/dynamic_cnn_best.pth
+2025-04-20 12:06:46,866 - __main__ - INFO - Testing with channel mode: rgb
